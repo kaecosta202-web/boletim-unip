@@ -1,3 +1,6 @@
 /target
 *.pem
 boletim.json
+.aider*
+dados/
+target/
